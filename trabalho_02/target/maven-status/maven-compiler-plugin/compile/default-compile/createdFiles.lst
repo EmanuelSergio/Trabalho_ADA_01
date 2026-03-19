@@ -1,0 +1,8 @@
+bolsa\Bolsa.class
+bolsa\TipoOrdem.class
+bolsa\Acao.class
+bolsa\Investidor.class
+bolsa\Subject.class
+bolsa\Ordem.class
+bolsa\OrdemProgramada.class
+bolsa\Observer.class
